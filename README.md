@@ -1,0 +1,8 @@
+## Problemas do Beecrowd
+
+Criei este projeto para arquivar os códigos dos problemas do site Beecrowd que eu fui resolvendo.
+
+Alguns foram bem desafiadores, e isso é bom pois me ajudou a relembrar muita coisa de matemática, aprender jeitos diferentes de escrever códigos, tive que pesquisar coisas novas, achei muito bom.
+
+Fica abaixo o site para quem quiser praticar:
+https://judge.beecrowd.com/pt/categories   
